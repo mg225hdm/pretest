@@ -1,0 +1,22 @@
+id,name,type,ranking_money,ranking_critics,year,production,screenplay,cast1,cast2,cast3,composer,production_company1,production_company2,production_company3,production_company4,box_office,oscar,golden_globe
+avatar,Avatar - Aufbruch nach Pandora,movie,1,,2009,James Cameron,James Cameron,Sam Worthington,Zoe Saldana,Sigourney Weaver,James Horner,20th Centuries Studios,Lightstorm Entertainment,Dune Entertainment,Ingenious Media,"2,847",3,2
+toni_erdmann,Toni Erdmann,movie,,1,2016,Maren Ade,Maren Ade,Sandra Hüller,Peter Simonischeck,Michael Wittenborn,,Komplizen Film,coop99,KNM Home Entertainment,Missing Link Films,"0,118",0,0
+jcp,James Cameron,production,,,1954,,,,,,,,,,,,,
+jcs,James Cameron,screenplay,,,1954,,,,,,,,,,,,,
+sw,Sam Worthington,actor,,,1976,,,,,,,,,,,,,
+zs,Zoe Saldana,actor,,,1978,,,,,,,,,,,,,
+siw,Sigourney Weaver,actor,,,1949,,,,,,,,,,,,,
+jh,James Horner,composer,,,1953,,,,,,,,,,,,,
+20cs,20th Centuries Studios,production_company,,,1935,,,,,,,,,,,,,
+le,Lightstorm Entertainment,production_company,,,1990,,,,,,,,,,,,,
+de,Dune Entertainment,production_company,,,2006,,,,,,,,,,,,,
+im,Ingenious Media,production_company,,,1998,,,,,,,,,,,,,
+mas,Maren Ade,screenplay,,,1976,,,,,,,,,,,,,
+map,Maren Ade,production,,,1976,,,,,,,,,,,,,
+sh,Sandra Hüller,actor,,,1978,,,,,,,,,,,,,
+ps,Peter Simonischeck,actor,,,1946,,,,,,,,,,,,,
+mw,Michael Wittenborn,actor,,,1953,,,,,,,,,,,,,
+kf,Komplizen Film ,production_company,,,1999,,,,,,,,,,,,,
+co,coop99,production_company,,,1999,,,,,,,,,,,,,
+knm,KNM Home Entertainment,production_company,,,2007,,,,,,,,,,,,,
+mlf,Missing Link Films,production_company,,,2014,,,,,,,,,,,,,
